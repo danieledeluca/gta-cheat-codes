@@ -18,18 +18,13 @@ const cheatCodes = computed(() => {
     <div class="overflow-hidden rounded-md">
         <NuxtImg src="/covers/san-andreas.jpg" class="w-full" />
     </div>
-    <UForm class="my-4 sm:my-6 lg:my-8">
-        <UFieldGroup class="w-full">
-            <UInput
-                v-model="filter"
-                placeholder="Cerca un trucco"
-                icon="i-lucide-search"
-                class="w-full"
-                @update:modelValue="router.push({ query: { q: filter || undefined } })"
-            />
-            <UButton type="submit" label="Cerca" />
-        </UFieldGroup>
-    </UForm>
+    <UInput
+        v-model="filter"
+        placeholder="Cerca un trucco"
+        class="my-4 w-full sm:my-6 lg:my-8"
+        icon="i-lucide-search"
+        @update:modelValue="router.push({ query: { q: filter || undefined } })"
+    />
     <div v-if="cheatCodes.length > 0" class="grid gap-8">
         <div
             v-for="(cheats, category) in Object.groupBy(cheatCodes, (cheat) => cheat.category)"
