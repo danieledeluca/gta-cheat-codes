@@ -1,5 +1,5 @@
 <template>
-    <UHeader title="GTA Cheat Codes">
+    <UHeader title="GTA cheat codes">
         <template #right>
             <UColorModeButton />
 
