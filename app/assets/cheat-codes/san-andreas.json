@@ -1,0 +1,548 @@
+[
+  {
+    "effect": "Vita, armatura e 250.000 $",
+    "codes": "R2, L1, CROSS, LEFT, BOTTOM, RIGHT, TOP, LEFT, BOTTOM, RIGHT, TOP, R1",
+    "category": "Generale",
+    "description": "Aumenta al massimo la vita e l'armatura aggiungendo inoltre 250.000 $ al proprio patrimonio. Se questo trucco viene inserito mentre si è all'interno di un qualsiasi veicolo danneggiato, questo verrà riparato e riportato in perfette condizioni."
+  },
+  {
+    "effect": "Vita infinita",
+    "codes": "BOTTOM, CROSS, RIGHT, LEFT, RIGHT, R1, RIGHT, BOTTOM, TOP, TRIANGLE",
+    "category": "Generale",
+    "description": "Rendi CJ quasi a prova di proiettile, ignifugo e immune agli attacchi corpo a corpo. Non potrai però sopravvivere alle esplosioni, cadute dall'alto, investimenti o annegamenti."
+  },
+  {
+    "effect": "Suicidio",
+    "codes": "RIGHT, L2, BOTTOM, R1, LEFT, LEFT, R1, L1, L2, L1",
+    "category": "Generale",
+    "description": "Uccidi CJ quando non avrai ulteriori possibilità."
+  },
+  {
+    "effect": "Modalità adrenalina",
+    "codes": "CROSS, CROSS, SQUARE, R1, L1, CROSS, BOTTOM, LEFT, CROSS",
+    "category": "Generale",
+    "description": "Rallenta il gioco e fornisce a Carl una forza strepitosa che gli permetterà di uccidere con due soli pugni."
+  },
+  {
+    "effect": "Ossigeno infinito (abilità apnea)",
+    "codes": "BOTTOM, LEFT, L1, BOTTOM, BOTTOM, R2, BOTTOM, L2, BOTTOM",
+    "category": "Generale",
+    "description": "Nuota sott'acqua senza mai preoccuparti di prendere aria per non rischiare di affogare."
+  },
+  {
+    "effect": "Mai affamato",
+    "codes": "SQUARE, L2, R1, TRIANGLE, TOP, SQUARE, L2, TOP, CROSS",
+    "category": "Generale",
+    "description": "Disattiva il sistema di nutrizione di CJ, permettendogli, non solo di non morire per denutrizione, ma di non perdere più peso o massa muscolare."
+  },
+  {
+    "effect": "Muscoli e grasso al minimo",
+    "codes": "TRIANGLE, TOP, TOP, LEFT, RIGHT, SQUARE, CIRCLE, RIGHT",
+    "category": "Generale",
+    "description": "Azzera la barra Muscoli e Grasso, rendendo CJ estremamente magro e fragile."
+  },
+  {
+    "effect": "Grasso al massimo",
+    "codes": "TRIANGLE, TOP, TOP, LEFT, RIGHT, SQUARE, CIRCLE, BOTTOM",
+    "category": "Generale",
+    "description": "Aumenta la barra Grasso al massimo, rendendo CJ obeso."
+  },
+  {
+    "effect": "Muscoli al massimo",
+    "codes": "TRIANGLE, TOP, TOP, LEFT, RIGHT, SQUARE, CIRCLE, LEFT",
+    "category": "Generale",
+    "description": "Aumenta la barra Muscoli al massimo, rendendo CJ estremamente muscoloso."
+  },
+  {
+    "effect": "Azzera livello di sospetto",
+    "codes": "R1, R1, CIRCLE, R2, TOP, BOTTOM, TOP, BOTTOM, TOP, BOTTOM",
+    "category": "Generale",
+    "description": "Rimuove tutte le stelle dal livello di sospetto attuale."
+  },
+  {
+    "effect": "Aumenta livello di sospetto",
+    "codes": "R1, R1, CIRCLE, R2, LEFT, RIGHT, LEFT, RIGHT, LEFT, RIGHT",
+    "category": "Generale",
+    "description": "Aumenta di 2 stelle il livello di sospetto attuale."
+  },
+  {
+    "effect": "Livello di sospetto a sei stelle",
+    "codes": "CIRCLE, RIGHT, CIRCLE, RIGHT, LEFT, SQUARE, CROSS, BOTTOM",
+    "category": "Generale",
+    "description": "Aumenta il livello di sospetto al massimo, cosicché CJ sarà ricercato dalla polizia, FBI ed esercito. Trucco consigliato a quelli che amano il rischio e l'avventura."
+  },
+  {
+    "effect": "Mai ricercato",
+    "codes": "CIRCLE, RIGHT, CIRCLE, RIGHT, LEFT, SQUARE, TRIANGLE, TOP",
+    "category": "Generale",
+    "description": "Azzererà e bloccherà il livello di sospetto. Puoi liberamente fare ciò che vuoi senza che i poliziotti ti inseguano o disturbino. Gli agenti di polizia si comporteranno come dei normali pedoni (purtroppo armati)."
+  },
+  {
+    "effect": "Statistiche veicoli al massimo",
+    "codes": "SQUARE, L2, CROSS, R1, L2, L2, LEFT, R1, RIGHT, L1, L1, L1",
+    "category": "Generale",
+    "description": "Aumenta al massimo le abilità di guida di auto, aerei, moto e bici."
+  },
+  {
+    "effect": "Sex appeal al massimo",
+    "codes": "CIRCLE, TRIANGLE, TRIANGLE, TOP, CIRCLE, R1, L2, TOP, TRIANGLE, L1, L1, L1",
+    "category": "Generale",
+    "description": "Aumenta al massimo la barra Sex appeal di CJ."
+  },
+  {
+    "effect": "Rispetto al massimo",
+    "codes": "L1, R1, TRIANGLE, BOTTOM, R2, CROSS, L1, TOP, L2, L2, L1, L1",
+    "category": "Generale",
+    "description": "Aumenta al massimo la barra Rispetto di CJ."
+  },
+  {
+    "effect": "Super pugno mortale",
+    "codes": "TOP, LEFT, CROSS, TRIANGLE, R1, CIRCLE, CIRCLE, CIRCLE, L2",
+    "category": "Generale",
+    "description": "Rende i pugni e i calci talmente potenti da far fuori una persona con un solo colpo. Bisogna però stare attenti perché anche i pedoni sono dotati di questa capacità."
+  },
+  {
+    "effect": "Super salto",
+    "codes": "TOP, TOP, TRIANGLE, TRIANGLE, TOP, TOP, LEFT, RIGHT, SQUARE, R2, R2",
+    "category": "Generale",
+    "description": "CJ può saltare 10 volte più alto di prima. Bisogna stare attenti alla caduta, se l'altezza sarà esagerata si perderà della salute."
+  },
+  {
+    "effect": "Beach Party",
+    "codes": "TOP, TOP, BOTTOM, BOTTOM, SQUARE, CIRCLE, L1, R1, TRIANGLE, BOTTOM",
+    "category": "Generale",
+    "description": "CJ in pantaloncini e sandali, ragazze in costume da bagno, gente che prende il sole ovunque e veicoli da mare in giro per la città."
+  },
+  {
+    "effect": "Funhouse",
+    "codes": "TRIANGLE, TRIANGLE, L1, SQUARE, SQUARE, CIRCLE, SQUARE, BOTTOM, CIRCLE",
+    "category": "Generale",
+    "description": "Sostituisce i pedoni con commessi di fast food e clown, le auto con Hotknife, Baggage, Tug, Hotdog, MR. Whoopee, Pizzaboy, BF Injection, Caddy e Quad (la maggior parte di questi avranno le sospensioni idrauliche). CJ indosserà boxer a cuori, occhiali buffi e capelli rosa."
+  },
+  {
+    "effect": "Modalità Ninja",
+    "codes": "CROSS, CROSS, BOTTOM, R2, L2, CIRCLE, R1, CIRCLE, SQUARE",
+    "category": "Generale",
+    "description": "Tutti i pedoni vengono sostituiti con membri del Mountain Cloud Boys (gang della triade di San Fierro) armati di Katana. I veicoli saranno sostituiti da PCJ-600, BF-400 e FCR-900 di colore nero. CJ sarà armato di Katana."
+  },
+  {
+    "effect": "Modalità sadomaso",
+    "codes": "SQUARE, RIGHT, SQUARE, SQUARE, L2, CROSS, TRIANGLE, CROSS, TRIANGLE",
+    "category": "Generale",
+    "description": "Tutti i pedoni verranno sostituiti con papponi e prostitute armate di vibratori e falli di gomma. CJ sarà vestito da sadomaso, cosa che attirerà tutte le prostitute in zona. Due tipi di vibratori, non utilizzabili normalmente nel gioco, compariranno con questo trucco."
+  },
+  {
+    "effect": "Modalità campagnola",
+    "codes": "L1, L1, R1, R1, L2, L1, R2, BOTTOM, LEFT, TOP",
+    "category": "Generale",
+    "description": "Tutti i pedoni verranno sostituiti con campagnoli così come il traffico sarà sostituito con veicoli solitamente visti nelle zone campestri. CJ sarà vestito con il completo “Born 2 Truck”."
+  },
+  {
+    "effect": "Le prostitute pagano CJ",
+    "codes": "RIGHT, L2, L2, BOTTOM, L2, TOP, TOP, L2, R2",
+    "category": "Generale",
+    "description": "Tutte le prostitute pagano CJ dopo aver avuto un rapporto, anche senza aver completato le missioni “Pappone”."
+  },
+  {
+    "effect": "Elvis è vivo",
+    "codes": "L1, CIRCLE, TRIANGLE, L1, L1, SQUARE, L2, TOP, BOTTOM, LEFT",
+    "category": "Generale",
+    "description": "Tutti i pedoni verranno sostituiti da imitatori di Elvis Presley."
+  },
+  {
+    "effect": "Modalità caos",
+    "codes": "L2, RIGHT, L1, TRIANGLE, RIGHT, RIGHT, R1, L1, RIGHT, L1, L1, L1",
+    "category": "Generale",
+    "description": "Rivolta dei pedoni, proprio come succede nelle ultime missioni del gioco. Gli edifici vanno a fuoco, la gente scappa rubando TV e altri oggetti, i veicoli esplodono e si creano risse per la strada."
+  },
+  {
+    "effect": "Attacco dai pedoni",
+    "codes": "BOTTOM, TOP, TOP, TOP, CROSS, R2, R1, L2, L2",
+    "category": "Generale",
+    "description": "Tutti i pedoni seguono CJ con l'intenzione di pestarlo e ucciderlo. Questo trucco non può essere disattivato."
+  },
+  {
+    "effect": "Attacco dai pedoni (armati)",
+    "codes": "CROSS, L1, TRIANGLE, SQUARE, BOTTOM, CROSS, L2, TRIANGLE, BOTTOM, R1, L1, L1",
+    "category": "Generale",
+    "description": "Tutti i pedoni saranno armati e seguiranno CJ con l'intenzione di ucciderlo. Questo trucco non può essere disattivato."
+  },
+  {
+    "effect": "Pedoni armati",
+    "codes": "R2, R1, CROSS, TRIANGLE, CROSS, TRIANGLE, TOP, BOTTOM",
+    "category": "Generale",
+    "description": "Tutti i pedoni saranno forniti di armi che utilizzeranno solo per difendersi."
+  },
+  {
+    "effect": "Rivolta dei pedoni",
+    "codes": "BOTTOM, LEFT, TOP, LEFT, CROSS, R2, R1, L2, L1",
+    "category": "Generale",
+    "description": "I pedoni saranno armati di qualsiasi tipo di arma e si spareranno contro. Questo trucco non può essere disattivato."
+  },
+  {
+    "effect": "Arruola chiunque nella tua gang (9mm)",
+    "codes": "BOTTOM, SQUARE, TOP, R2, R2, TOP, RIGHT, RIGHT, TOP",
+    "category": "Generale",
+    "description": "Arruola qualsiasi pedone nella tua gang creando un piccolo e potente esercito. Le reclute, appena arruolate, se non saranno provviste di un'arma verranno automaticamente equipaggiate di una 9mm."
+  },
+  {
+    "effect": "Arruola chiunque nella tua gang (AK-47)",
+    "codes": "TRIANGLE, LEFT, SQUARE, R2, TOP, L2, BOTTOM, L1, CROSS, L1, L1, L1",
+    "category": "Generale",
+    "description": "Arruola qualsiasi pedone nella tua gang creando un piccolo e potente esercito. Le reclute, appena arruolate, saranno automaticamente equipaggiate di un AK-47."
+  },
+  {
+    "effect": "Arruola chiunque nella tua gang (lanciarazzi)",
+    "codes": "R2, R2, R2, CROSS, L2, L1, R2, L1, BOTTOM, CROSS",
+    "category": "Generale",
+    "description": "Arruola qualsiasi pedone nella tua gang creando un piccolo e potente esercito. Le reclute, appena arruolate, se non saranno provviste di un'arma verranno automaticamente equipaggiate di un lanciarazzi."
+  },
+  {
+    "effect": "Gang ovunque",
+    "codes": "LEFT, RIGHT, RIGHT, RIGHT, LEFT, CROSS, BOTTOM, TOP, SQUARE, RIGHT",
+    "category": "Generale",
+    "description": "Le gang della OGF, dei Ballas e dei Vagos compariranno per tutto lo stato di San Andreas. I membri delle gang guideranno auto solitamente usate dai pedoni. Inoltre per le strade gireranno anche Taxi con tassisti ben armati."
+  },
+  {
+    "effect": "Tutte le gang al controllo della strada",
+    "codes": "L2, TOP, R1, R1, LEFT, R1, R1, R2, RIGHT, BOTTOM",
+    "category": "Generale",
+    "description": "Disattiva il traffico e i pedoni lasciando nelle strade solo le gang di tutta San Andreas (Ballas, Vagos, Los Aztecas, Mafia, Triade, Da Nang Boys, Rifa, ecc.). Consigliato a quelli che amano le guerre e la confusione."
+  },
+  {
+    "effect": "Rallenta gioco",
+    "codes": "TRIANGLE, TOP, RIGHT, BOTTOM, SQUARE, R2, R1",
+    "category": "Generale",
+    "description": "Rallenta l'intero gioco. Per rimuovere l'effetto e riportare tutto alla normalità sarà necessario inserire il trucco “Velocizza gioco”."
+  },
+  {
+    "effect": "Velocizza gioco",
+    "codes": "TRIANGLE, TOP, RIGHT, BOTTOM, L2, L1, SQUARE",
+    "category": "Generale",
+    "description": "Velocizza l'intero gioco. Per rimuovere l'effetto e riportare tutto alla normalità sarà necessario inserire il trucco “Rallenta gioco”."
+  },
+  {
+    "effect": "Armi #1",
+    "codes": "R1, R2, L1, R2, LEFT, BOTTOM, RIGHT, TOP, LEFT, BOTTOM, RIGHT, TOP",
+    "category": "Armi",
+    "description": "Set di armi 1: Nocche d'acciaio, Mazza da baseball, 9mm, Fucile a pompa, Micro SMG, AK-47, Fucile semiautomatico, Lanciarazzi, Molotov, Bomboletta spray."
+  },
+  {
+    "effect": "Armi #2",
+    "codes": "R1, R2, L1, R2, LEFT, BOTTOM, RIGHT, TOP, LEFT, BOTTOM, BOTTOM, LEFT",
+    "category": "Armi",
+    "description": "Set di armi 2: Coltello, Desert Eagle, Fucile a canne mozze, Tec-9, M4, Fucile di precisione, Lanciafiamme, Granate, Estintore."
+  },
+  {
+    "effect": "Armi #3",
+    "codes": "R1, R2, L1, R2, LEFT, BOTTOM, RIGHT, TOP, LEFT, BOTTOM, BOTTOM, BOTTOM",
+    "category": "Armi",
+    "description": "Set di armi 3: Motosega, 9mm silenziata, Fucile da combattimento, SMG, M4, Fucile di precisione, Lanciarazzi a ricerca termica, Esplosivi."
+  },
+  {
+    "effect": "Paracadute",
+    "codes": "LEFT, RIGHT, L1, L2, R1, R2, R2, TOP, BOTTOM, RIGHT, L1",
+    "category": "Armi",
+    "description": "CJ sarà in possesso di un paracadute."
+  },
+  {
+    "effect": "Livello Killer in tutte le armi",
+    "codes": "BOTTOM, SQUARE, CROSS, LEFT, R1, R2, LEFT, BOTTOM, BOTTOM, L1, L1, L1",
+    "category": "Armi",
+    "description": "Aumenta le statistiche di abilità con le armi al livello “Killer” permettendo quindi l'utilizzo di due armi contemporaneamente, un raggio d'azione più esteso, spostamenti laterali e altro ancora. Le armi sono: Pistola, Pistola silenziata, Desert Eagle, Fucile, Fucile a canne mozze, Fucile da combattimento, Pistola mitragliatrice, SMG, AK-47 e M4."
+  },
+  {
+    "effect": "Munizioni infinite",
+    "codes": "L1, R1, SQUARE, R1, LEFT, R2, R1, LEFT, SQUARE, BOTTOM, L1, L1",
+    "category": "Armi",
+    "description": "Blocca il numero di munizioni disponibili per ogni arma, rendendole infinite."
+  },
+  {
+    "effect": "Sereno",
+    "codes": "R2, CROSS, L1, L1, L2, L2, L2, TRIANGLE",
+    "category": "Condizioni atmosferiche e tempo",
+    "description": "Modifica il tempo rendendo il cielo più limpido e sereno."
+  },
+  {
+    "effect": "Soleggiato",
+    "codes": "R2, CROSS, L1, L1, L2, L2, L2, BOTTOM",
+    "category": "Condizioni atmosferiche e tempo",
+    "description": "Tempo soleggiato e afoso."
+  },
+  {
+    "effect": "Nuvoloso",
+    "codes": "R2, CROSS, L1, L1, L2, L2, L2, SQUARE",
+    "category": "Condizioni atmosferiche e tempo",
+    "description": "Copre il cielo di nuvole rendendolo molto chiaro (esistono due sequenze di pulsanti diverse con lo stesso effetto)."
+  },
+  {
+    "effect": "Nuvoloso (sequenza alternativa)",
+    "codes": "L2, BOTTOM, BOTTOM, LEFT, SQUARE, LEFT, R2, SQUARE, CROSS, R1, L1, L1",
+    "category": "Condizioni atmosferiche e tempo",
+    "description": "Copre il cielo di nuvole rendendolo molto chiaro (esistono due sequenze di pulsanti diverse con lo stesso effetto)."
+  },
+  {
+    "effect": "Nebbioso",
+    "codes": "R2, CROSS, L1, L1, L2, L2, L2, CROSS",
+    "category": "Condizioni atmosferiche e tempo",
+    "description": "Aggiunge la nebbia creando un'atmosfera tetra."
+  },
+  {
+    "effect": "Temporale",
+    "codes": "R2, CROSS, L1, L1, L2, L2, L2, CIRCLE",
+    "category": "Condizioni atmosferiche e tempo",
+    "description": "Modifica il tempo con pioggia, tuoni e fulmini."
+  },
+  {
+    "effect": "Tempesta di sabbia",
+    "codes": "TOP, BOTTOM, L1, L1, L2, L2, L1, L2, R1, R2",
+    "category": "Condizioni atmosferiche e tempo",
+    "description": "Attiva una tempesta di sabbia, tipica del deserto di San Andreas."
+  },
+  {
+    "effect": "Tempo più veloce",
+    "codes": "CIRCLE, CIRCLE, L1, SQUARE, L1, SQUARE, SQUARE, SQUARE, L1, TRIANGLE, CIRCLE, TRIANGLE",
+    "category": "Condizioni atmosferiche e tempo",
+    "description": "Velocizza l'orologio di San Andreas: un'ora del gioco corrisponderà a due secondi reali."
+  },
+  {
+    "effect": "Orario bloccato alle 21:00",
+    "codes": "LEFT, LEFT, L2, R1, RIGHT, SQUARE, SQUARE, L1, L2, CROSS",
+    "category": "Condizioni atmosferiche e tempo",
+    "description": "Blocca l'orologio alle 21:00 di sera. Se CJ viene arrestato o eliminato, l'orario rimarrà fermo alle 9:00 di mattina."
+  },
+  {
+    "effect": "Orario bloccato a mezzanotte",
+    "codes": "SQUARE, L1, R1, RIGHT, CROSS, TOP, L1, LEFT, LEFT",
+    "category": "Condizioni atmosferiche e tempo",
+    "description": "Blocca l'orologio a mezzanotte. Se CJ viene arrestato o eliminato, l'orario rimarrà fermo a mezzogiorno."
+  },
+  {
+    "effect": "Guida instabile",
+    "codes": "TRIANGLE, R1, R1, LEFT, R1, L1, R2, L1",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Velocizza le auto e rende la sterzata molto sensibile, sarà quindi facile cappottare. Premendo L3 inoltre le auto salteranno, anziché suonare il clacson."
+  },
+  {
+    "effect": "Nitro in tutte le auto",
+    "codes": "LEFT, TRIANGLE, R1, L1, TOP, SQUARE, TRIANGLE, BOTTOM, CIRCLE, L2, L1, L1",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Inserisce il Nitro (NOS) in tutti i veicoli (tranne moto e bici) che può essere attivato con la semplice pressione del pulsante L1 o Cerchio quando si è all'interno del mezzo."
+  },
+  {
+    "effect": "Nitro in tutti i taxi",
+    "codes": "TOP, CROSS, TRIANGLE, CROSS, TRIANGLE, CROSS, SQUARE, R2, RIGHT",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Inserisce il Nitro (NOS) in tutti i taxi e cambia la funzione del pulsante L3, che farà saltare l'auto anziché suonare il clacson (esistono due sequenze di pulsanti diverse con lo stesso effetto). Questa caratteristica verrà acquisita normalmente dopo aver completato la missione secondaria con il taxi."
+  },
+  {
+    "effect": "Nitro in tutti i taxi (sequenza alternativa)",
+    "codes": "TOP, LEFT, LEFT, BOTTOM, CIRCLE, SQUARE, L1, L1, L2, R1, R2",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Inserisce il Nitro (NOS) in tutti i taxi e cambia la funzione del pulsante L3, che farà saltare l'auto anziché suonare il clacson (esistono due sequenze di pulsanti diverse con lo stesso effetto). Questa caratteristica verrà acquisita normalmente dopo aver completato la missione secondaria con il taxi."
+  },
+  {
+    "effect": "Auto volanti",
+    "codes": "SQUARE, BOTTOM, L2, TOP, L1, CIRCLE, TOP, CROSS, LEFT",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Ogni veicolo (tranne moto e bici) potrà volare poiché la manovrabilità sarà identica a quella degli aerei."
+  },
+  {
+    "effect": "Auto sull'acqua",
+    "codes": "RIGHT, R2, CIRCLE, R1, L2, SQUARE, R1, R2",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Le ruote delle macchine si posizioneranno in orizzontale permettendo così di galleggiare e guidare sull'acqua."
+  },
+  {
+    "effect": "Auto galleggianti in aria",
+    "codes": "SQUARE, R2, BOTTOM, BOTTOM, LEFT, BOTTOM, LEFT, LEFT, L2, CROSS",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Per far galleggiare in aria qualsiasi veicolo, basterà colpirlo con un'auto. Questo trucco può essere usato per raggiungere il limite d'altezza massimo. Se invece amate il paracadutismo, colpite con la vostra auto un elicottero per farlo galleggiare in aria, ed entrate subito a bordo prima che voli via, una volta entrati potrete raggiungere qualsiasi altezza."
+  },
+  {
+    "effect": "Veicoli invisibili",
+    "codes": "TRIANGLE, L1, TRIANGLE, R2, SQUARE, L1, L1",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Tutti i veicoli da strada (tranne moto e bici) diventano invisibili mostrandone solo le ruote e le persone all'interno del veicolo."
+  },
+  {
+    "effect": "Veicoli neri",
+    "codes": "CIRCLE, L2, TOP, R1, LEFT, CROSS, R1, L1, LEFT, CIRCLE",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Tutti i veicoli diventano di colore nero."
+  },
+  {
+    "effect": "Veicoli rosa",
+    "codes": "CIRCLE, L1, BOTTOM, L2, LEFT, CROSS, R1, L1, RIGHT, CIRCLE",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Tutti i veicoli diventano di colore rosa."
+  },
+  {
+    "effect": "Veicoli sportivi",
+    "codes": "TOP, L1, R1, TOP, RIGHT, TOP, CROSS, L2, CROSS, L1",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Sostituisce il traffico con auto rare e sportive (come la Turismo, Hotknife, Banshee e altre). Queste auto saranno inoltre più veloci."
+  },
+  {
+    "effect": "Veicoli scadenti",
+    "codes": "L2, RIGHT, L1, TOP, CROSS, L1, L2, R2, R1, L1, L1, L1",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Sostituisce il traffico con veicoli utilizzati solitamente dalle persone povere di San Andreas."
+  },
+  {
+    "effect": "Traffico aggressivo",
+    "codes": "R2, CIRCLE, R1, L2, LEFT, R1, L1, R2, L2",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Nessun veicolo si fermerà e ci saranno più inseguimenti tra gente e polizia."
+  },
+  {
+    "effect": "Traffico e pedoni ridotti",
+    "codes": "CROSS, BOTTOM, TOP, R2, BOTTOM, TRIANGLE, L1, TRIANGLE, LEFT",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Le strade e i marciapiedi saranno quasi senza auto e pedoni."
+  },
+  {
+    "effect": "Semafori sempre verdi",
+    "codes": "RIGHT, R1, TOP, L2, L2, LEFT, R1, L1, R1, R1",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Tutti i semafori saranno sempre verdi."
+  },
+  {
+    "effect": "Mirare e sparare mentre si guida",
+    "codes": "TOP, TOP, SQUARE, L2, RIGHT, CROSS, R1, BOTTOM, R2, CIRCLE",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Si potrà mirare e sparare mentre si guida un'auto, proprio come fanno i membri della gang di CJ quando vengono arruolati e sparano dai veicoli. Per mirare usare lo stick analogico destro."
+  },
+  {
+    "effect": "Super Bunny hop",
+    "codes": "TRIANGLE, SQUARE, CIRCLE, CIRCLE, SQUARE, CIRCLE, CIRCLE, L1, L2, L2, R1, R2",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "CJ ha l'abilità di effettuare incredibili salti (“Bunny hop”) in BMX oltre 30 metri di altezza."
+  },
+  {
+    "effect": "Veicoli mortali",
+    "codes": "L1, L2, L2, TOP, BOTTOM, BOTTOM, TOP, R1, R2, R2",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Qualsiasi veicolo stia usando CJ diventa invulnerabile e acquisisce l'abilità tipica del carro armato di distruggere all'istante qualsiasi cosa urta. Questo trucco viene applicato a qualsiasi tipo di veicolo, dalle auto alle moto e persino le bici BMX."
+  },
+  {
+    "effect": "Distruggi tutti i veicoli",
+    "codes": "R2, L2, R1, L1, L2, R2, SQUARE, TRIANGLE, CIRCLE, TRIANGLE, L2, L1",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Attivando questo trucco tutti i veicoli nelle vicinanze esploderanno. È consigliato uscire da qualsiasi tipo di veicolo prima di inserire questo trucco se non si vuole perire nell'esplosione del veicolo stesso."
+  },
+  {
+    "effect": "Barche volanti",
+    "codes": "R2, CIRCLE, TOP, L1, RIGHT, R1, RIGHT, TOP, SQUARE, TRIANGLE",
+    "category": "Prestazioni veicoli e traffico",
+    "description": "Con questo trucco attivo tutte le barche decolleranno dopo aver raggiunto una certa velocità."
+  },
+  {
+    "effect": "Autobotte (Tanker)",
+    "codes": "R1, TOP, LEFT, RIGHT, R2, TOP, RIGHT, SQUARE, RIGHT, L2, L1, L1",
+    "category": "Comparsa veicoli",
+    "description": "Questo trucco fa comparire un'autobotte, completa di cisterna di benzina."
+  },
+  {
+    "effect": "Bloodring Banger",
+    "codes": "BOTTOM, R1, CIRCLE, L2, L2, CROSS, R1, L1, LEFT, LEFT",
+    "category": "Comparsa veicoli",
+    "description": "Vecchia auto utilizzata nello stadio di San Fierro."
+  },
+  {
+    "effect": "Caddy",
+    "codes": "CIRCLE, L1, TOP, R1, L2, CROSS, R1, L1, CIRCLE, CROSS",
+    "category": "Comparsa veicoli",
+    "description": "Golf Cart a due posti."
+  },
+  {
+    "effect": "Dozer",
+    "codes": "R2, L1, L1, RIGHT, RIGHT, TOP, TOP, CROSS, L1, LEFT",
+    "category": "Comparsa veicoli",
+    "description": "Bulldozer dotato di pala meccanica grazie alla quale è possibile liberare la strada con facilità."
+  },
+  {
+    "effect": "Hotring Racer #1",
+    "codes": "R1, CIRCLE, R2, RIGHT, L1, L2, CROSS, CROSS, SQUARE, R1",
+    "category": "Comparsa veicoli",
+    "description": "Auto da corsa dello stadio di Los Santos."
+  },
+  {
+    "effect": "Hotring Racer #2",
+    "codes": "R2, L1, CIRCLE, RIGHT, L1, R1, RIGHT, TOP, CIRCLE, R2",
+    "category": "Comparsa veicoli",
+    "description": "Auto da corsa dello stadio di Los Santos."
+  },
+  {
+    "effect": "Hunter",
+    "codes": "CIRCLE, CROSS, L1, CIRCLE, CIRCLE, L1, CIRCLE, R1, R2, L2, L1, L1",
+    "category": "Comparsa veicoli",
+    "description": "L'Hunter è l'elicottero militare dell'esercito di San Andreas, è dotato di lanciamissili e mitragliatore."
+  },
+  {
+    "effect": "Hydra",
+    "codes": "TRIANGLE, TRIANGLE, SQUARE, CIRCLE, CROSS, L1, L1, BOTTOM, TOP",
+    "category": "Comparsa veicoli",
+    "description": "L'Hydra è un Fighter Jet molto potente a decollo verticale, utile per raggiungere in poco tempo luoghi molto distanti."
+  },
+  {
+    "effect": "Jetpack",
+    "codes": "LEFT, RIGHT, L1, L2, R1, R2, TOP, BOTTOM, LEFT, RIGHT",
+    "category": "Comparsa veicoli",
+    "description": "Questo trucco fa comparire un Jetpack, il “veicolo” speciale che si ottiene dopo aver completato la missione “Green Goo” affidata da The Truth."
+  },
+  {
+    "effect": "Monster Truck",
+    "codes": "RIGHT, TOP, R1, R1, R1, BOTTOM, TRIANGLE, TRIANGLE, CROSS, CIRCLE, L1, L1",
+    "category": "Comparsa veicoli",
+    "description": "Enorme jeep con ruote spropositate, utile per “attraversare” il traffico o fare acrobazie."
+  },
+  {
+    "effect": "Quad",
+    "codes": "LEFT, LEFT, BOTTOM, BOTTOM, TOP, TOP, SQUARE, CIRCLE, TRIANGLE, R1, R2",
+    "category": "Comparsa veicoli",
+    "description": "Moto a due posti e quattro ruote adatto a qualsiasi terreno."
+  },
+  {
+    "effect": "Rancher",
+    "codes": "TOP, RIGHT, RIGHT, L1, RIGHT, TOP, SQUARE, L2",
+    "category": "Comparsa veicoli",
+    "description": "Fuoristrada che è possibile trovare nelle zone campestri o nel deserto."
+  },
+  {
+    "effect": "Rhino",
+    "codes": "CIRCLE, CIRCLE, L1, CIRCLE, CIRCLE, CIRCLE, L1, L2, R1, TRIANGLE, CIRCLE, TRIANGLE",
+    "category": "Comparsa veicoli",
+    "description": "Carro armato dell'esercito di San Andreas distruttivo e quasi indistruttibile."
+  },
+  {
+    "effect": "Romero",
+    "codes": "BOTTOM, R2, BOTTOM, R1, L2, LEFT, R1, L1, LEFT, RIGHT",
+    "category": "Comparsa veicoli",
+    "description": "Questo trucco fa comparire un carro funebre, occasionalmente con una bara all'interno."
+  },
+  {
+    "effect": "Stretch",
+    "codes": "R2, TOP, L2, LEFT, LEFT, R1, L1, CIRCLE, RIGHT",
+    "category": "Comparsa veicoli",
+    "description": "Questo trucco fa comparire una limousine di lusso."
+  },
+  {
+    "effect": "Stuntplane",
+    "codes": "CIRCLE, TOP, L1, L2, BOTTOM, R1, L1, L1, LEFT, LEFT, CROSS, TRIANGLE",
+    "category": "Comparsa veicoli",
+    "description": "L'aereo Stuntplane è utile per effettuare qualche acrobazia in aria."
+  },
+  {
+    "effect": "Trashmaster",
+    "codes": "CIRCLE, R1, CIRCLE, R1, LEFT, LEFT, R1, L1, CIRCLE, RIGHT",
+    "category": "Comparsa veicoli",
+    "description": "Questo trucco fa comparire un camion della spazzatura."
+  },
+  {
+    "effect": "Vortex",
+    "codes": "TRIANGLE, TRIANGLE, SQUARE, CIRCLE, CROSS, L1, L2, BOTTOM, BOTTOM",
+    "category": "Comparsa veicoli",
+    "description": "Hovercraft (veicolo a cuscino d'aria) che può essere utilizzato sia sulla terraferma che in acqua."
+  }
+]

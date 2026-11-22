@@ -86,5 +86,11 @@ export default withNuxt(
                 'vue/v-on-event-hyphenation': ['error', 'never'],
             },
         },
+        {
+            files: ['app/assets/cheat-codes/*.json'],
+            rules: {
+                'style/max-len': ['off'],
+            },
+        },
     ),
 );

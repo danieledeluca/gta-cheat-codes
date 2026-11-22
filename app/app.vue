@@ -4,8 +4,8 @@ import { it } from '@nuxt/ui/locale';
 useSeoMeta({
     titleTemplate: (titleChunk) => {
         return titleChunk
-            ? `${titleChunk} | GTA Cheat Codes`
-            : 'GTA Cheat Codes';
+            ? `${titleChunk} | GTA cheat codes`
+            : 'GTA cheat codes';
     },
     description: 'lorem ipsum',
 });
